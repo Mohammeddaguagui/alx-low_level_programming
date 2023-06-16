@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: print a qout using write function ssize_t write(int fd, const void *buf, size_t count);
+ * Description: print a qout using write function;
  *
  * Return: 1 (error).
 */
