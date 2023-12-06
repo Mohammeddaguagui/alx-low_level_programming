@@ -1,1 +1,1 @@
-const [user,setUser]=usestate("")
+const [user,setUser]=usestate("user")
